@@ -1,1 +1,1 @@
-# python-web-parsing
+There are many practical tasks for parsing data from websites.Solutions to practical tasks cover a wide range of topics, ranging from the basics of HTML and DOM, to using various Python libraries such as BeautifulSoup, Requests, Selenium, Pyrogram, Telethon, and many others. Real-world application examples are included, which allows you to delve deeply into the topic.
